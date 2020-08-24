@@ -1,0 +1,170 @@
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.g.cs
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.g.cs
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.g.cs
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\App.g.cs
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.cache
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.lref
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe.config
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.pdb
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.dll
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.dll
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.xml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.pdb
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\App.baml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.baml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.baml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.baml
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.g.resources
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Migrations.InitTable.resources
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Properties.Resources.resources
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csproj.GenerateResource.Cache
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.exe
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.pdb
+E:\Rio\bootcamp\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csprojResolveAssemblyReference.cache
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe.config
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.pdb
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.dll
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.dll
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.xml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.pdb
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.g.cs
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.g.cs
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.g.cs
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\App.g.cs
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.cache
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.lref
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\App.baml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.baml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.baml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.baml
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.g.resources
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Migrations.InitTable.resources
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Properties.Resources.resources
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csproj.GenerateResource.Cache
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.exe
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.pdb
+E:\Rio\bootcamp\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe.config
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.pdb
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.dll
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.xml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.g.cs
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.g.cs
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\App.g.cs
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.cache
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.lref
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\App.baml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.baml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.baml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.baml
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.g.resources
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Migrations.InitTable.resources
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Properties.Resources.resources
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csproj.GenerateResource.Cache
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.exe
+C:\Users\Jepri\Documents\GitHub\BelajarCRUDWPF_Kelompok_2\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.pdb
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe.config
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.pdb
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.dll
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.xml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.g.cs
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.g.cs
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransaction.g.cs
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\App.g.cs
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.cache
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.lref
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\App.baml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.baml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.baml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.baml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransaction.baml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.g.resources
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Properties.Resources.resources
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csproj.GenerateResource.Cache
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.exe
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.pdb
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransactionItem.g.cs
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransactionItem.baml
+C:\Users\Jepri\Pictures\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Migrations.InitTable.resources
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe.config
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.exe
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\TUGASWPF.pdb
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\System.Buffers.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\System.Memory.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\System.Buffers.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\System.Memory.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\ForgotPassword.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\login.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\Register.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\ResetNewPassword.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransaction.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransactionItem.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\App.g.cs
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.cache
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF_MarkupCompile.lref
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\App.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\ForgotPassword.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\login.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\MainWindow.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\Register.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\ResetNewPassword.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlItem.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlSupplier.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransaction.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\UserControlTransactionItem.baml
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.g.resources
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Migrations.initTable2.resources
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Migrations.initTable3.resources
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.Properties.Resources.resources
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csproj.GenerateResource.Cache
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.exe
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.pdb
+C:\Users\Jepri\Pictures\Camera Roll\BelajarCRUDWPF_Kelompok_2-Jepri\TUGASWPF\TUGASWPF\obj\Debug\TUGASWPF.csprojResolveAssemblyReference.cache
