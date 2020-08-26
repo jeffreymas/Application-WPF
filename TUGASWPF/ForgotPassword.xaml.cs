@@ -65,7 +65,7 @@ namespace TUGASWPF
 
             SmtpServer.UseDefaultCredentials = false;
             SmtpServer.Port = 587;
-            SmtpServer.Credentials = new NetworkCredential("jeffreyalaflah@gmail.com", "indramayuplaza");
+            SmtpServer.Credentials = new NetworkCredential("jeffreyalaflah@gmail.com", "xxxxxxxxxxx");
             SmtpServer.EnableSsl = true;
             SmtpServer.Send(mail);
         }
